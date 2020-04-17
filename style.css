@@ -1,0 +1,12 @@
+p{
+    text-align: center;
+}
+.header{
+    background-color: honeydew;
+    display:flex;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
